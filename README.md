@@ -2,9 +2,9 @@ This is a base template for a next project
 
 ## It has already configured
 
-[] Jest and react testing library
-[] tailwind
-[] accessability package
+- Jest and react testing library
+- tailwind
+-  accessability package
 
 First, run the development server:
 
